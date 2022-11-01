@@ -112,3 +112,4 @@ Give a ⭐ if you like this project!
 This project is [MIT](./MIT.md) licensed.
 
 
+npm install --save-dev eslint@7.x eslint-config-airbnb@17.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x  @babel/preset-react@7.x @babel/preset-react@7.x
