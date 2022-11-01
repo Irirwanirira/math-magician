@@ -5,7 +5,7 @@ class Calculator extends React.Component {
     super(props);
     this.cal = [];
   }
-  render() {
+   render() {
     return (
       <div className="calculus">
         <div className="display">
@@ -43,7 +43,7 @@ class Calculator extends React.Component {
           </div>
         </div>
       </div>
-    )
-   };
+    );
+  }
 }
 export default Calculator;
