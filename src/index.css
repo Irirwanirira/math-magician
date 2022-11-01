@@ -34,10 +34,30 @@
 .row-1,
 .row-2,
 .row-3,
-.row-4,
+.row-4 {
+  display: flex;
+  width: 100%;
+}
+
 .point {
   display: flex;
   width: 100%;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.point .orange {
+  width: 25%;
+}
+
+.point .dot {
+  width: 25%;
+}
+
+.point .zero {
+  width: 50%;
 }
 
 button {
@@ -50,8 +70,4 @@ button {
 button:hover {
   opacity: 0.9;
   cursor: pointer;
-}
-
-.orange {
-  background-color: orange;
 }
