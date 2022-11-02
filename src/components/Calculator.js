@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 import calculate from '../logic/calculate';
 
 class Calculator extends React.Component {
@@ -7,10 +7,10 @@ class Calculator extends React.Component {
     this.state = {
       total: 0,
       next: null,
-      operation: null
+      operation: null,
     };
     this.handleOperations = this.handleOperations.bind(this);
-  };
+  }
 
   handleOperations =(e) => {
     this.setState((state) => calculate(state, e.target.textContent));
@@ -22,14 +22,14 @@ class Calculator extends React.Component {
     return (
       <div className="calculus">
         <div className="display">
-            {next || total || operation || 0 }
+          {next || total || operation || 0 }
         </div>
         <div className="All">
           <div className="row-1">
             <button type="button" onClick={this.handleOperations}>AC</button>
-            <button type="button"  onClick={this.handleOperations}>+/-</button>
-            <button type="button"  onClick={this.handleOperations}>%</button>
-            <button type="button" className="orange"  onClick={this.handleOperations}> ÷</button>
+            <button type="button" onClick={this.handleOperations}>+/-</button>
+            <button type="button" onClick={this.handleOperations}>%</button>
+            <button type="button" className="orange" onClick={this.handleOperations}> ÷</button>
           </div>
           <div className="row-2">
             <button type="button" onClick={this.handleOperations}>7</button>
