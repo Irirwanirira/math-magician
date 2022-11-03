@@ -5,7 +5,7 @@ function Calculator() {
   const [object, setObject] = useState({
     total: null,
     next: null,
-    operation: null 
+    operation: null,
   });
 
   function handleOperations(e) {
