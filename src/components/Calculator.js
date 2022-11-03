@@ -2,18 +2,18 @@ import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
 function Calculator() {
-  const [object, setObject] =  useState({
+  const [object, setObject] = useState({
     total: null,
     next: null,
-    operation: null,}
-   );
-   
-  function handleOperations(e){
-    const targetKey = (e.target.innerHTML)
-    setObject((object) => calculate(object, targetKey))
+    operation: null 
+  });
+
+  function handleOperations(e) {
+    const targetKey = (e.target.innerHTML);
+    setObject((object) => calculate(object, targetKey));
   }
 
-  return ( 
+  return (
     <div className="calculus">
       <div className="display">
         { object }
