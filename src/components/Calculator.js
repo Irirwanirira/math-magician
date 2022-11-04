@@ -2,28 +2,29 @@ import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
 function Calculator() {
-  const [object, setObject] = useState([
-    total= null,
-    next= null,
-    operation= null,
-  ]);
+
+  const [object, setObject] = useState({
+    total: 0,
+    next: null,
+    operation: null,
+  });
 
   function handleOperations(e) {
     const targetKey = (e.target.innerHTML);
     setObject((object) => calculate(object, targetKey));
   }
-
+  const {total, next } = object
   return (
     <div className="calculus">
       <div className="display">
-        { object }
+        { next|| total || 0 }
       </div>
       <div className="All">
         <div className="row-1">
           <button type="button" onClick={handleOperations}>AC</button>
           <button type="button" onClick={handleOperations}>+/-</button>
           <button type="button" onClick={handleOperations}>%</button>
-          <button type="button" className="orange" onClick={handleOperations}> ÷</button>
+          <button type="button" className="orange" onClick={handleOperations}>÷</button>
         </div>
         <div className="row-2">
           <button type="button" onClick={handleOperations}>7</button>
