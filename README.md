@@ -1,6 +1,7 @@
 ## Project: Math magician
 
 This is simple app, which has different basic mathematical oparations, it act like a calculator when you can compute all your operations in a simple way.
+
 ## Built With
 
 - HTML, CSS, JS
