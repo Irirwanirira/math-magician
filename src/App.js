@@ -3,14 +3,10 @@ import React from 'react';
 import Calculator from './components/Calculator';
 
 class App extends React.Component {
-  constructor(props) {
-    super(props);
-    this.cal = [];
-  }
-
+  
   render() {
-    return (
-      <div className="App">
+  return ( 
+    <div className="App">
         <Calculator />
       </div>
     );
