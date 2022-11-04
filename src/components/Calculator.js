@@ -2,11 +2,11 @@ import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
 function Calculator() {
-  const [object, setObject] = useState({
-    total: null,
-    next: null,
-    operation: null,
-  });
+  const [object, setObject] = useState([
+    total= null,
+    next= null,
+    operation= null,
+  ]);
 
   function handleOperations(e) {
     const targetKey = (e.target.innerHTML);
