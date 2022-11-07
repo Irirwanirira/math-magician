@@ -15,10 +15,10 @@ function Calculator() {
   const { total, next } = object;
   return (
     <div className="math">
-      <p id='paragraph'>Let's do some math!</p>
+      <p id="paragraph">Let us do some math!</p>
       <div className="calculus">
-      <div className="display">{next || total || 0}</div>
-      <div className="All">
+        <div className="display">{next || total || 0}</div>
+        <div className="All">
         <div className="row-1">
           <button type="button" onClick={handleOperations}>
             AC
@@ -87,7 +87,7 @@ function Calculator() {
           </button>
         </div>
       </div>
-    </div>
+      </div>
     </div>
   );
 }
