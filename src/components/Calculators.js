@@ -19,7 +19,7 @@ function Calculator() {
       <div className="calculus">
         <div className="display">{next || total || 0}</div>
         <div className="All">
-        <div className="row-1">
+          <div className="row-1">
           <button type="button" onClick={handleOperations}>
             AC
           </button>
@@ -33,7 +33,7 @@ function Calculator() {
             ÷
           </button>
         </div>
-        <div className="row-2">
+          <div className="row-2">
           <button type="button" onClick={handleOperations}>
             7
           </button>
@@ -47,7 +47,7 @@ function Calculator() {
             x
           </button>
         </div>
-        <div className="row-3">
+          <div className="row-3">
           <button type="button" onClick={handleOperations}>
             4
           </button>
@@ -61,7 +61,7 @@ function Calculator() {
             -
           </button>
         </div>
-        <div className="row-4">
+          <div className="row-4">
           <button type="button" onClick={handleOperations}>
             1
           </button>
@@ -75,7 +75,7 @@ function Calculator() {
             +
           </button>
         </div>
-        <div className="point">
+          <div className="point">
           <button type="button" className="zero" onClick={handleOperations}>
             0
           </button>
@@ -86,7 +86,7 @@ function Calculator() {
             =
           </button>
         </div>
-      </div>
+        </div>
       </div>
     </div>
   );
