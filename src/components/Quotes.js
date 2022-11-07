@@ -1,3 +1,4 @@
+/* eslint-disable */ 
 const QUOTE = () => {
     return ( 
         <div className="myQuotes">
