@@ -5,10 +5,7 @@
 }
 
 .App {
-  margin: 10%;
-  display: flex;
-  text-align: center;
-  justify-content: center;
+  margin: 5%;
 }
 
 .calculus {
@@ -70,4 +67,64 @@ button {
 button:hover {
   opacity: 0.9;
   cursor: pointer;
+}
+
+.welcome {
+  margin-top: 2em;
+}
+
+#title {
+  font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+  margin: 1em 0;
+}
+
+.text {
+  font-size: 25px;
+  margin: 5px 0;
+}
+
+.navBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Link {
+  font-size: 20px;
+  color: black;
+}
+
+.link {
+  text-decoration: none;
+  word-spacing: 2px;
+}
+
+.link:hover {
+  color: black;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.math {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 8%;
+}
+
+#paragraph {
+  font-size: 40px;
+}
+
+.myQuotes {
+  margin-top: 10%;
+}
+
+.quotes {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 2em;
+}
+
+.quotes span {
+  font-weight: 900;
 }
