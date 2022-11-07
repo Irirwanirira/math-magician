@@ -1,5 +1,7 @@
 ## Project: Math magician
 
+This is simple app, which has different basic mathematical oparations, it act like a calculator when you can compute all your operations in a simple way.
+
 ## Built With
 
 - HTML, CSS, JS
@@ -96,9 +98,6 @@ npx eslint .
 - Twitter: [@Iri_joseph](https://twitter.com/Irirwanirira)
 - LinkedIn: [Joseph IRIRWANIRIRA](https://linkedin.com/in/joseph-irirwanirira-74666623a/)
 
-
-
-
 ## Show your support
 
 Give a ⭐ if you like this project!
@@ -110,6 +109,3 @@ Give a ⭐ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
-
-npm install --save-dev eslint@7.x eslint-config-airbnb@17.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x  @babel/preset-react@7.x @babel/preset-react@7.x
