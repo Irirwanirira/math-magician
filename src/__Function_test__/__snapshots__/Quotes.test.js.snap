@@ -1,0 +1,588 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="myQuotes"
+      >
+        <p
+          class="quotes"
+        >
+          Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers. — 
+          <span>
+            Shakuntala Devi, Indian writer and mental calculator
+          </span>
+        </p>
+        <p
+          class="quotes"
+        >
+           We will always have STEM with us. Some things will drop out of the public eye and go away, but there will always be science, engineering, and technology. And there will always, always be mathematics. — 
+          <span>
+            Katherine Johnson, African-American mathematicia
+          </span>
+        </p>
+        <p
+          class="quotes"
+        >
+          There should be no such thing as boring mathematics. — 
+          <span>
+            Edsger W. Dijkstra, Dutch systems scientist
+          </span>
+        </p>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="myQuotes"
+    >
+      <p
+        class="quotes"
+      >
+        Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers. — 
+        <span>
+          Shakuntala Devi, Indian writer and mental calculator
+        </span>
+      </p>
+      <p
+        class="quotes"
+      >
+         We will always have STEM with us. Some things will drop out of the public eye and go away, but there will always be science, engineering, and technology. And there will always, always be mathematics. — 
+        <span>
+          Katherine Johnson, African-American mathematicia
+        </span>
+      </p>
+      <p
+        class="quotes"
+      >
+        There should be no such thing as boring mathematics. — 
+        <span>
+          Edsger W. Dijkstra, Dutch systems scientist
+        </span>
+      </p>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Matches the UI 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="welcome"
+      >
+        <h1
+          id="title"
+        >
+           Welcome to our page!
+        </h1>
+        <p
+          class="text"
+        >
+          According to Live science: Mathematics is the science that deals with the logic of shape, quantity and arrangement. Math is all around us, in everything we do. It is the building block for everything in our daily lives, including mobile devices, computers, software, architecture (ancient and modern), art, money, engineering and even sports.
+        </p>
+        <p
+          class="text"
+        >
+          Since the beginning of recorded history, mathematical discovery has been at the forefront of every civilized society, and math has been used by even the most primitive and earliest cultures. The need for math arose because of the increasingly complex demands from societies around the world, which required more advanced mathematical solutions, as outlined by mathematician Raymond L. Wilder in his book "Evolution of Mathematical Concepts(opens in new tab)" (Dover Publications, 2013).
+        </p>
+        <p
+          class="text"
+        >
+          The more complex a society, the more complex the mathematical needs. Primitive tribes needed little more than the ability to count, but also used math to calculate the position of the sun and the physics of hunting. "All the records — anthropological and historical — show that counting and, ultimately, numeral systems as a device for counting form the inception of the mathematical element in all cultures," Wilder wrote in 1968.
+        </p>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="welcome"
+    >
+      <h1
+        id="title"
+      >
+         Welcome to our page!
+      </h1>
+      <p
+        class="text"
+      >
+        According to Live science: Mathematics is the science that deals with the logic of shape, quantity and arrangement. Math is all around us, in everything we do. It is the building block for everything in our daily lives, including mobile devices, computers, software, architecture (ancient and modern), art, money, engineering and even sports.
+      </p>
+      <p
+        class="text"
+      >
+        Since the beginning of recorded history, mathematical discovery has been at the forefront of every civilized society, and math has been used by even the most primitive and earliest cultures. The need for math arose because of the increasingly complex demands from societies around the world, which required more advanced mathematical solutions, as outlined by mathematician Raymond L. Wilder in his book "Evolution of Mathematical Concepts(opens in new tab)" (Dover Publications, 2013).
+      </p>
+      <p
+        class="text"
+      >
+        The more complex a society, the more complex the mathematical needs. Primitive tribes needed little more than the ability to count, but also used math to calculate the position of the sun and the physics of hunting. "All the records — anthropological and historical — show that counting and, ultimately, numeral systems as a device for counting form the inception of the mathematical element in all cultures," Wilder wrote in 1968.
+      </p>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Render quotes 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="myQuotes"
+      >
+        <p
+          class="quotes"
+        >
+          Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers. — 
+          <span>
+            Shakuntala Devi, Indian writer and mental calculator
+          </span>
+        </p>
+        <p
+          class="quotes"
+        >
+           We will always have STEM with us. Some things will drop out of the public eye and go away, but there will always be science, engineering, and technology. And there will always, always be mathematics. — 
+          <span>
+            Katherine Johnson, African-American mathematicia
+          </span>
+        </p>
+        <p
+          class="quotes"
+        >
+          There should be no such thing as boring mathematics. — 
+          <span>
+            Edsger W. Dijkstra, Dutch systems scientist
+          </span>
+        </p>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="myQuotes"
+    >
+      <p
+        class="quotes"
+      >
+        Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers. — 
+        <span>
+          Shakuntala Devi, Indian writer and mental calculator
+        </span>
+      </p>
+      <p
+        class="quotes"
+      >
+         We will always have STEM with us. Some things will drop out of the public eye and go away, but there will always be science, engineering, and technology. And there will always, always be mathematics. — 
+        <span>
+          Katherine Johnson, African-American mathematicia
+        </span>
+      </p>
+      <p
+        class="quotes"
+      >
+        There should be no such thing as boring mathematics. — 
+        <span>
+          Edsger W. Dijkstra, Dutch systems scientist
+        </span>
+      </p>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`it has to Render quotes 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="myQuotes"
+      >
+        <p
+          class="quotes"
+        >
+          Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers. — 
+          <span>
+            Shakuntala Devi, Indian writer and mental calculator
+          </span>
+        </p>
+        <p
+          class="quotes"
+        >
+           We will always have STEM with us. Some things will drop out of the public eye and go away, but there will always be science, engineering, and technology. And there will always, always be mathematics. — 
+          <span>
+            Katherine Johnson, African-American mathematicia
+          </span>
+        </p>
+        <p
+          class="quotes"
+        >
+          There should be no such thing as boring mathematics. — 
+          <span>
+            Edsger W. Dijkstra, Dutch systems scientist
+          </span>
+        </p>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="myQuotes"
+    >
+      <p
+        class="quotes"
+      >
+        Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers. — 
+        <span>
+          Shakuntala Devi, Indian writer and mental calculator
+        </span>
+      </p>
+      <p
+        class="quotes"
+      >
+         We will always have STEM with us. Some things will drop out of the public eye and go away, but there will always be science, engineering, and technology. And there will always, always be mathematics. — 
+        <span>
+          Katherine Johnson, African-American mathematicia
+        </span>
+      </p>
+      <p
+        class="quotes"
+      >
+        There should be no such thing as boring mathematics. — 
+        <span>
+          Edsger W. Dijkstra, Dutch systems scientist
+        </span>
+      </p>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`it has to render Render quotes 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="myQuotes"
+      >
+        <p
+          class="quotes"
+        >
+          Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers. — 
+          <span>
+            Shakuntala Devi, Indian writer and mental calculator
+          </span>
+        </p>
+        <p
+          class="quotes"
+        >
+           We will always have STEM with us. Some things will drop out of the public eye and go away, but there will always be science, engineering, and technology. And there will always, always be mathematics. — 
+          <span>
+            Katherine Johnson, African-American mathematicia
+          </span>
+        </p>
+        <p
+          class="quotes"
+        >
+          There should be no such thing as boring mathematics. — 
+          <span>
+            Edsger W. Dijkstra, Dutch systems scientist
+          </span>
+        </p>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="myQuotes"
+    >
+      <p
+        class="quotes"
+      >
+        Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers. — 
+        <span>
+          Shakuntala Devi, Indian writer and mental calculator
+        </span>
+      </p>
+      <p
+        class="quotes"
+      >
+         We will always have STEM with us. Some things will drop out of the public eye and go away, but there will always be science, engineering, and technology. And there will always, always be mathematics. — 
+        <span>
+          Katherine Johnson, African-American mathematicia
+        </span>
+      </p>
+      <p
+        class="quotes"
+      >
+        There should be no such thing as boring mathematics. — 
+        <span>
+          Edsger W. Dijkstra, Dutch systems scientist
+        </span>
+      </p>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

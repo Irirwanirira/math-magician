@@ -4,8 +4,9 @@ This is simple app, which has different basic mathematical oparations, it act li
 
 ## Built With
 
-- HTML, CSS, JS
-- Webpack
+- React
+- JavaScript (ES6)
+- CSS
 - Gitflow
 
 # Getting Started with Create React App
@@ -97,6 +98,12 @@ npx eslint .
 - GitHub: [@Irirwanirira](https://github.com/Irirwanirira)
 - Twitter: [@Iri_joseph](https://twitter.com/Irirwanirira)
 - LinkedIn: [Joseph IRIRWANIRIRA](https://linkedin.com/in/joseph-irirwanirira-74666623a/)
+
+👤 **Oluwatoyin Olaoye**
+
+- GitHub: [@AbayomiOlaoye](https://github.com/AbayomiOlaoye)
+- Twitter: [@Oluwatoyin](https://twitter.com/olaoyeelijah)
+- LinkedIn: [Oluwatoyin Olaoye](https://linkedin.com/in/oluwatoyinolaoye)
 
 ## Show your support
 
