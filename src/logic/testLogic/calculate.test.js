@@ -4,7 +4,7 @@ const object = {
   total: null,
   next: null,
   operation: null,
-}
+};
 
 test('test if obj.total is false', () => {
   const obj = { ...object, total: '0', operation: '+' };
