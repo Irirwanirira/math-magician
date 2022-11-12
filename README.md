@@ -43,7 +43,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 To get the content of this project locally you need to run the following commands in your terminal.
 
-## Live Demo
+## [Live Demo](https://imaginative-scone-fa9020.netlify.app/)
 
 live demo here
 
