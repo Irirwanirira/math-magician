@@ -21,6 +21,6 @@ describe('test calculator function', () => {
     expect(Number(operate(obj.num2, obj.num3, '÷'))).toBe(2);
   });
   test('operate function should equate 0', () => {
-    expect(Number(operate(obj.num2, obj.num3, '%'))).toBe(0)
+    expect(Number(operate(obj.num2, obj.num3, '%'))).toBe(0);
   });
 });
