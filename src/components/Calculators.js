@@ -18,7 +18,7 @@ function Calculator() {
       <p id="paragraph">Let us do some math!</p>
       <div className="calculus">
         <div className="display">{next || total || 0}</div>
-        <div className="All">
+        <div className="full_view">
           <div className="row-1">
             <button type="button" onClick={handleOperations}>
               AC
