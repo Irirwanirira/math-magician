@@ -83,6 +83,7 @@ button:hover {
 .text {
   font-size: 25px;
   margin: 5px 0;
+  padding-bottom: 1em;
 }
 
 .navBar {
@@ -103,13 +104,9 @@ button:hover {
   font-size: 20px;
 }
 
-.text{
-  padding-bottom: 1em;
-}
-
 .underline {
   color: rgb(4, 66, 82);
-  font-weight:900;
+  font-weight: 900;
 }
 
 .math {
@@ -140,17 +137,17 @@ button:hover {
   .App {
     margin: 2% 5%;
   }
-  
-  .navBar{
+
+  .navBar {
     flex-direction: column;
     gap: 20px;
   }
 
-  #paragraph{
+  #paragraph {
     display: none;
   }
 
-  .link{
+  .link {
     color: rgb(5, 121, 134);
     font-weight: bolder;
   }
@@ -175,4 +172,3 @@ button:hover {
     font-size: 20px;
   }
 }
-
