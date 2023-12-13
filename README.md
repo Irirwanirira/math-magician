@@ -1,6 +1,10 @@
 ## Project: Math magician
 
-This is simple app, which has different basic mathematical oparations, it act like a calculator when you can compute all your operations in a simple way.
+This is a straightforward application that provides basic mathematical operations, functioning as a calculator where you can easily perform various computations.
+
+![](./public/computer.png)
+![](./public/mobile.png)
+
 
 ## Built With
 
